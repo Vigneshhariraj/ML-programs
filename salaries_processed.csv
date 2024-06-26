@@ -1,0 +1,19 @@
+company,job,degree,salary_more_then_100k
+Google,Sales Executive,Bachelor,0
+Google,Sales Executive,Master,1
+Google,Business Manager,Bachelor,0
+Google,Business Manager,Master,1
+Google,Computer Engineer,Bachelor,1
+Google,Computer Engineer,Master,1
+ABC Corp,Sales Executive,Bachelor,0
+ABC Corp,Sales Executive,Master,0
+ABC Corp,Business Manager,Bachelor,1
+ABC Corp,Business Manager,Master,1
+ABC Corp,Computer Engineer,Bachelor,0
+ABC Corp,Computer Engineer,Master,1
+Facebook,Sales Executive,Bachelor,0
+Facebook,Sales Executive,Master,1
+Facebook,Business Manager,Bachelor,1
+Facebook,Business Manager,Master,1
+Facebook,Computer Engineer,Bachelor,1
+Facebook,Computer Engineer,Master,1
